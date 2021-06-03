@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Six awakening questions to unconverted sinners which the author adviseth them daily to put to their souls.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60315</idno><idno type="EEBO-CITATION">14170985</idno>
+  <idno type="VID">102139</idno>
+  <idno type="EEBO-PROQUEST">2248501803</idno>
+  
+            <idno type="STC">Wing S3911</idno>
+            <idno type="STC">ESTC R34249</idno>
+            <idno type="OCLC">14170985</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1070:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Six awakening questions to unconverted sinners which the author adviseth them daily to put to their souls.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Soul --  Biblical teaching.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102139:1"/>
+            <pb facs="tcp:102139:1"/>
+            <p>SIX AWAKENING QUESTIONS TO UNCONVERTED SINNERS: Which the Author advi<g ref="char:EOLhyphen"/>seth them daily to put to their Souls.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102139:2"/>
+            <pb n="1" facs="tcp:102139:2"/>
+            <head>SIX AWAKENING QUESTIONS TO Unconverted SINNERS.</head>
+            <div n="1" type="question">
+               <head>The First Question.</head>
+               <p>
+                  <hi>WHat State did my Soul come into the World in?</hi> Was it not in a State of <hi>Death? Ephes.</hi> 2. 1. A State of <hi>Wrath?</hi> Verse 3. Sirs, Awake, and bethink your selves where you are,
+<pb n="2" facs="tcp:102139:3"/> and whither you are going. While you are in your Natural, Unconverted, Unbeliev<g ref="char:EOLhyphen"/>ing State, all your sins are unpardoned, and the Wrath of God abideth on you, <hi>Acts 3. 19. Joh.</hi> 3. 36. Suppose you saw a poor creature hanging over a burning fiery Furnace, by nothing but a twine thred, like to break every moment; would not your hearts shake for such a one? Sirs, it is your very case; you hang over the Infernal Burnings by nothing but the small thread of your lives, which you know not but it may crack the next moment, and then where are you? Is this a case for you to go on merrily and contentedly in?</p>
+            </div>
+            <div n="2" type="question">
+               <head>The second Question.</head>
+               <p>
+                  <hi>WH<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Condition is my Soul now in?</hi> Am I changed and renewed by Conversion, or am I not? Speak, Conscience; hath this Man▪ this Woman, this Child been soundly and savingly chan<g ref="char:EOLhyphen"/>ged, both in Heart and Life? Where are your evidences? Can you shew the marks
+<pb n="3" facs="tcp:102139:3"/> of the Lord Jesus upon your Souls? Let your Conscience answer: Where was the place? What was the means? When was the time that thy soul was throughly re<g ref="char:EOLhyphen"/>newed? At least if you cannot shew the time, place, or means, can you prove any thing? Can you say with him [one thing I know, that whereas I was blind, I now see.] Sirs, be not deceived, I tell you, whatever you do, nothing will avail you to Salvation, except you be new Crea<g ref="char:EOLhyphen"/>tures, <hi>Gal.</hi> 6. 15.</p>
+            </div>
+            <div n="3" type="question">
+               <head>The Third Question.</head>
+               <p>
+                  <hi>WHat if I should lose my Soul? What fair Work should I make of it then?</hi> This is very possible, <hi>Mat.</hi> 16. 26. Yea, it is the case of the most: There are but few, few of the Children of men that do escape safe to Heaven, <hi>Mat.</hi> 7. 14. Sirs, beware of your danger, and fear lest a promise being left of entring into Rest, any of you should at last come short of it, <hi>Heb.</hi> 4. 1. Suppose a man were to travel through some perillous Wood or Wilderness, having but one Jew<g ref="char:EOLhyphen"/>el in all the World, in which his All was
+<pb n="4" facs="tcp:102139:4"/> bound up, and should see some stand on one hand, and some on the other, and hear one company in this place, and another in that, cry out under the hands of some cruel Robbers: Oh! in what fear would this traveller go lest he should lose this Jew<g ref="char:EOLhyphen"/>el, and be robbed of all at once! why, thou art the man: This Traveller is thy self, this Jewel is thy Soul▪ This Wilderness or Wood, is this World thou art to travel through; swarms of sins, Legions of Devils, a whole world of temptations; these are the Robbers that lie in wait for thy Soul: and if all that these can do can keep thee out of Heaven, thou shalt never come there. Oh! what if thy Pride, or Worldliness, thy delays and triflings in Religion, should at last betray thy Soul into the Robbers hands? Other losses may be repaired; but thy Soul being once lost, God is lost, Christ is lost, Heaven, all lost for evermore.</p>
+            </div>
+            <div n="4" type="question">
+               <head>The Fourth Question.</head>
+               <p>
+                  <hi>WHat do I do for my Soul?</hi> What have I a Soul, an immortal Soul to care for, <hi>&amp;c.</hi> and look no better after it, nor bestow no more of my time, nor pains
+<pb n="5" facs="tcp:102139:4"/> upon it, no more of my thoughts about it? When <hi>Augustus</hi> the Emperour saw the Outlandish Women carrying Apes, and such kind of strange Creatures in the Streets, in their Arms, he asked, What! have the Women in these Countries no Children? so it may be said of many a<g ref="char:EOLhyphen"/>mong us, that are early and late at their worldly business, but let the care of Religi<g ref="char:EOLhyphen"/>on lie by neglected, What have these men no Souls? Why man, hast thou a Soul, and yet dost so little in thy Closet, so little in thy Family from day to day for it? what meanest thou, O Sleeper? Arise, call upon thy God, that thou perish not, <hi>Jonah</hi> 1. 6. What will become of thy Soul, if thou lookest to it only at this careless rate?</p>
+            </div>
+            <div n="5" type="question">
+               <head>The Fifth Question.</head>
+               <p>
+                  <hi>WHat if God should this night require thy S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul? Where would Death land thee?</hi> Luke 12. 19, 20. There was one that promised many merry days, and years, as it is like thou dost, but that same night God called for his Soul. Sirs, are you in your postures? Are you
+<pb n="6" facs="tcp:102139:5"/> fit to die? O dare not to live in such a case, nor in that course, in which you would not dare to die.</p>
+            </div>
+            <div n="6" type="question">
+               <head>The Sixth Question.</head>
+               <p>
+                  <hi>WHat a happy case were I in, if I had but secured my Soul?</hi> Oh if this were but once done, how sweetly might<g ref="char:EOLhyphen"/>est thou live? Then thou mightest eat thy Bread, and drink thy Wine with a merry heart, when assured that God accepteth thee and thy work▪ <hi>Eccles.</hi> 9. 7. Then thou mightest lie down in peace, rise up in peace, go out, <hi>&amp;c.</hi> in peace; then thou might<g ref="char:EOLhyphen"/>est look death in the face, thou mightest look dangers in the face, yea, look Devils in the face, and never be afraid. O Sirs! if there be any Ensurance-Office for Souls in all the world, one would think you should be seeking to it.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102139:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
